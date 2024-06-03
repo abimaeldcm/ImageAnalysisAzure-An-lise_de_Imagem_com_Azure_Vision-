@@ -1,0 +1,6 @@
+@ImageAnalysisOpenAI_HostAddress = http://localhost:5101
+
+GET {{ImageAnalysisOpenAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
